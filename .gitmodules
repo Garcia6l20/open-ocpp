@@ -1,0 +1,15 @@
+[submodule "3rdparty/rapidjson"]
+	path = 3rdparty/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+	shallow = true
+	branch = v1.1.0
+[submodule "3rdparty/libwebsockets"]
+	path = 3rdparty/libwebsockets
+	url = https://github.com/warmcat/libwebsockets.git
+	shallow = true
+	branch = v4.3.2
+[submodule "3rdparty/doctest"]
+	path = 3rdparty/doctest
+	url = https://github.com/doctest/doctest.git
+	shallow = true
+	branch = 2.4.9
